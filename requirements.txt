@@ -1,0 +1,4 @@
+pyaudio
+numpy
+faster-whisper
+googletrans==4.0.0rc1
