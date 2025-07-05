@@ -1,0 +1,3 @@
+gradio==5.25.0
+faster-whisper
+deep-translator
